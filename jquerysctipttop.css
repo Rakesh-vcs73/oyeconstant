@@ -1,0 +1,34 @@
+#imgs{
+   position: relative; 
+   width: 100%;
+   margin: 0 auto;
+}
+.content-msg {
+    position: absolute;
+    top: 150px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    color: #7cf502;
+    font-family: Garamond, serif;
+    font-size: 50px;
+    font-style: normal;
+    font-variant: normal;
+    text-shadow: 2px 2px 10px black;
+}
+.content-msg h3 {
+   color: #fc0595;
+}
+
+.content-msg h5 {
+    color: cyan;
+}
+.content-msg h6 {
+    color: cyan;
+    text-align: right;
+}
+
+
+.content-msg a {
+    color: black;
+}
