@@ -9,12 +9,12 @@
     left: 0;
     width: 100%;
     text-align: center;
-    color: #7cf502;
     font-family: Garamond, serif;
     font-size: 50px;
     font-style: normal;
     font-variant: normal;
     text-shadow: 2px 2px 10px black;
+    color: cyan;
 }
 .content-msg h3 {
    color: #fc0595;
